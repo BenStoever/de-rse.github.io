@@ -460,5 +460,21 @@ var rseFeatures = [
             "type": "Point",
             "coordinates": [7.603546, 51.966485]
         }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Ben St&ouml;ver",
+            "popupContent": "<img src='../assets/img/map/BenStoever.jpg'>" + "
+            "<a href='http://bioinfweb.info/People/Stoever'>Ben St&ouml;ver</a><br>" +
+            "<a href='https://www.uni-muenster.de/Evolution/'>Institute for Evolution and Biodiversity</a>, " + 
+            "<a href='https://www.uni-muenster.de/'>WWU Münster</a><br>" + 
+            "<a href='http://bioinfweb.info/'>bioinfweb software portal</a><br>" + 
+            "stoever@bioinfweb.info<br>" + "
+            "<em>Development of bioinformatical software with a special emphasis on increasing the reusability of data and the reproducibility of studies.</em>"
+        },
+        "geometry": {
+	    "type": "Point", "coordinates": [7.613579034805298, 51.96166010689012]
+        }
     }
 ];
